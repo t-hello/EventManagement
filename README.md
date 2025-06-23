@@ -34,4 +34,7 @@ RSVP can only be updated before the event date.
 Separate sections for Admin and User functionality.
 Future improvements: Authentication, Role-based access, Email notifications.
 
+![WhatsApp Image 2025-06-23 at 7 36 57 PM](https://github.com/user-attachments/assets/539cd219-e0ee-4e61-af76-a32cfa902d6c)
+
+
 
