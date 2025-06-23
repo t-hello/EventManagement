@@ -1,3 +1,5 @@
+![1000069272](https://github.com/user-attachments/assets/585de20a-600a-46be-b45f-de659f043354)
+![1000069271](https://github.com/user-attachments/assets/411e4b5f-d070-433a-8541-c57250020f62)
 # EventManagement
 
 An event management system where Admins can create, update, delete events and track RSVP statuses, while Users can view events and submit their RSVP responses (Going, Maybe, Decline).
